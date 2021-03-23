@@ -16,7 +16,7 @@ A RedeOndas tem dados disponíveis para Florianópolis (SC), Tramandaí (RS), Po
 
  - Tramandaí: 2006 2007 2013 2014 2015 2016
 
- - Florianopolis: 2002 2003 2004 2005
+ - Florianópolis: 2002 2003 2004 2005
 
  - Praia do Cassino: 2016
 

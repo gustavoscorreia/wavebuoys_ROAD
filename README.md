@@ -2,7 +2,7 @@
 
 Neste diretório, serão atualizados dados observacionais (i.e., de boias) que estejam disponíveis dentro do domínio de interesse do projeto ROAD.
 
-Atualmente, há disponibilidade de duas boias oceânicas (PNBOIA) e quatro costeiras (RedeOndas);
+Atualmente, há disponibilidade de duas boias oceânicas (PNBOIA) e cinco costeiras (RedeOndas);
 
 
 O PNBOIA tem dados disponíveis para Itajaí (SC) e Rio Grande (RS) para os seguintes anos:
@@ -12,7 +12,9 @@ O PNBOIA tem dados disponíveis para Itajaí (SC) e Rio Grande (RS) para os segu
  - Rio Grande: 2009 2011 2012 2013 2014 2015 2016 2017
 
 
-A RedeOndas tem dados disponíveis para Florianópolis (SC), Tramandaí (RS), Pontal do Paraná (PR) e Praia do Cassino (RS) para os seguintes anos:
+A RedeOndas tem dados disponíveis para Florianópolis (SC), Tramandaí (RS), Pontal do Paraná (PR), Praia do Cassino (RS) e Lagoa dos Patos (RS) para os seguintes anos:
+
+ - Lagoa dos Patos: 2006 2018
 
  - Tramandaí: 2006 2007 2013 2014 2015 2016
 
